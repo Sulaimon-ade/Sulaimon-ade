@@ -31,8 +31,8 @@
 ---
 
 ## 🌟 Connect with Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/me/) *(add your real link)*
-- 🌐 [YouTube Channel](https://www.youtube.com/@forexwithsuleiman) *(add your YouTube link)*
+- 🌐 [LinkedIn](https://www.linkedin.com/) *(https://www.linkedin.com/in/me/)*
+- 🌐 [YouTube Channel](https://www.youtube.com/) *((https://www.youtube.com/@forexwithsuleiman))*
 - 🌐 [Website/Portfolio](https://yourwebsite.com) *(optional)*
 - 📧 Email: yourname@example.com *(update this)*
 
