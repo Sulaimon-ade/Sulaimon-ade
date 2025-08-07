@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Sulaimon Okunoye!
 
 ## 🧑‍💻 About Me
-- 🎯 Founder & CEO of **iMarket** under **GreenCards Global** 🌍
+- 🎯 Founder & CEO of **iMarket** under **iServices Integrated Limited** 🌍
 - 💻 Fullstack Developer (React.js, Node.js, Python, etc.)
 - 📊 Data Analyst & Machine Learning Enthusiast
 - 💹 Forex Trader with 5+ years of experience
